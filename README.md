@@ -1,1 +1,1 @@
-# Flowers-ResNet-50-MoE
+# Some flowers, a ResNet-50 and a MoE Layer
