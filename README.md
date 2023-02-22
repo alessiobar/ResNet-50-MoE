@@ -2,7 +2,7 @@
 
 This repository contains the code for the second homework of the *Neural Networks for Data Science Applications* course (10589627), Sapienza University.
 
-**TL;DR** The task consisted of choosing a dataset (freely), building a neural network of choice, and adding a 'Mixture-of-Experts' layer. Everything using *TensorFlow*.
+**TL;DR**: The task consisted of choosing a dataset freely, building a neural network of your choice, and adding a *'Mixture-of-Experts'* layer, all using *TensorFlow*.
 
 ## Data
 
