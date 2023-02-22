@@ -17,7 +17,7 @@ The model chosen is a *ResNet-50*, it's implemented from scratch and it is train
 "This is by far the most interesting part: the approach took inspiration from both 'Deep Neural Networks with Mixture of Experts Layers for Complex Event Recognition from Images' (Li et al., 2018) for the use of a MoE layer within a ResNet model, and, most importantly, 'Outrageously Large Neural Networks: The Sparsely-Gated Mixture-Of-Experts Layer' (Shazeer et al., 2017) for the actual implementation."
 
 ## Results 
-Everything is explained in the notebook `asdasdasdasasdas.pdf`
+Everything is explained in the notebook `ResNet-50-MoE.ipynb`
 
 ## (Few) References
 - Shazeer, N., Mirhoseini, A., Maziarz, K., Davis, A., Le, Q., Hinton, G., & Dean, J. (2017). *Outrageously large neural networks: The sparsely-gated mixture-of-experts layer*. arXiv preprint arXiv:1701.06538.
